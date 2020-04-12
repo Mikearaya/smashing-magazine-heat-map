@@ -18,7 +18,7 @@ This project includes the following:
 
 ## Live Demo
 
-[Live Demo Link](https://rawcdn.githack.com/Azeem838/smashing-magazine-heat-map/7c771058376cfa45574f2deb1c1789d3a76ef13a/index.html)
+[Live Demo Link](https://mikearaya.github.io/smashing-magazine-heat-map/.)
 
 ## Authors
 
